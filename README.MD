@@ -35,6 +35,8 @@ By the end of this session, learners will be able to:
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Additional Resources for this session | https://learn.microsoft.com | Links specific to this session |
+| What is Microsoft Copilot in Azure? | https://learn.microsoft.com/azure/copilot/overview | Overview of Microsoft Copilot in Azure |
+| Use Microsoft Copilot in Azure with AI Shell | https://learn.microsoft.com/azure/copilot/ai-shell-overview | How to use AI Shell |
 
 ### 📚 Continued Learning Resources
 | Resources          | Links                             | Description        |
