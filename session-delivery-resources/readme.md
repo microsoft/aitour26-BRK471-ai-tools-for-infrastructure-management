@@ -2,7 +2,7 @@
 
 🥇 Thanks for delivering this session!
 
-Prior to delivering the workshop please:
+Prior to delivering the breakout session please:
 
 1.  Read this document and all included resources included in their entirety.
 2.  Watch the video presentation
@@ -13,7 +13,7 @@ Prior to delivering the workshop please:
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Workshop Slide Deck      |  [Presentation](https://aka.ms/)  | Presentation slides for this workshop with presenter notes and embedded demo video |
+| Workshop Slide Deck      |  [Presentation](https://aka.ms/)  | Presentation slides for this breakout session |
 | Session Delivery Deck     |  [Deck](https://aka.ms/) | The session delivery slides |
 | More Files     |  [Some More Files](https://aka.ms/) | More File Descriptions |
 
