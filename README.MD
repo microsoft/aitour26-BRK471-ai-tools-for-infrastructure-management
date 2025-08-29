@@ -10,7 +10,7 @@ If you will be delivering this session, check the [session-delivery-sources](./s
 
 ### Session Description
 
-In this sessoin you'll learn how to use AI enabled administrative tools to perform common IT Operations tasks in your Azure environment.
+In this session you'll learn how to use AI enabled administrative tools to perform common IT Operations tasks in your Azure environment.
 
 ### 🧠 Learning Outcomes
 
@@ -27,9 +27,9 @@ By the end of this session, learners will be able to:
 
 ### 💻 Technologies Used
 
-1.
-1.
-1.
+1. Microsoft Copilot in Azure
+1. GitHub Copilot in VS Code
+1. AI Shell
 
 ### 🔗 Session Resources
 | Resources          | Links                             | Description        |
