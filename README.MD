@@ -34,7 +34,7 @@ By the end of this session, learners will be able to:
 ### 🔗 Session Resources
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Additional Resources for this session | https://learn.microsoft.com | Links specific to this session |
+| Session delivery resources | https://github.com/microsoft/aitour26-BRK471-ai-for-infrastructure-management/tree/main/session-delivery-resources | PowerPoint and session video files |
 | What is Microsoft Copilot in Azure? | https://learn.microsoft.com/azure/copilot/overview | Overview of Microsoft Copilot in Azure |
 | Use Microsoft Copilot in Azure with AI Shell | https://learn.microsoft.com/azure/copilot/ai-shell-overview | How to use AI Shell |
 
