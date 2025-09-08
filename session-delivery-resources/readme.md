@@ -13,7 +13,7 @@ Prior to delivering the breakout session please:
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| BRK471-AI-Infa-Management-Full-Presentation.mp4                 | https://aka.ms/AAxs4y6   | Full Session Runthrough |
+| BRK471-AI-Infa-Management-Full-Presentation.mp4                 | https://youtu.be/7S_wOZLQFoU   | Full Session Runthrough |
 | BRK471-Demo-1-Enable-Azure-Copilot-Install-AI-Shell-Narrated.mp4| https://aka.ms/AAxs4y8   | Demo 1 Video Narrated |
 | BRK471-Demo-1-Enable-Azure-Copilot-Install-AI-Shell-NoPause.mp4 | https://aka.ms/AAxs4y3   | Demo 1 Video No pauses |
 | BRK471-Demo-2-Deploy-VM-AI-Shell-Narrated.mp4                   | https://aka.ms/AAxrjhy   | Demo 2 Video Narrated |
@@ -28,7 +28,7 @@ Prior to delivering the breakout session please:
 | BRK471-Demo-6-Visualize-Network-Topology-NoPause.mp4            | https://aka.ms/AAxrjhw   | Demo 6 Video No pauses |
 | BRK471-Demo-7-Configure-Monitoring-Alerts-Narrated.mp4          | https://aka.ms/AAxs4y7   | Demo 7 Video Narrated |
 | BRK471-Demo-7-Configure-Monitoring-Alerts-NoPause.mp4           | https://aka.ms/AAxrxej   | Demo 7 Video No pauses |
-| EN-US_BRK471_Tech_FY26.pptx                                     | https://aka.ms/AAxrjhz   | BKR 417 Slide Deck |
+| EN-US_BRK471_Tech_FY26.pptx                                     | https://aka.ms/AAxrjhz   | BKR 471 Slide Deck |
 
 ### 🖥️Demos
 
