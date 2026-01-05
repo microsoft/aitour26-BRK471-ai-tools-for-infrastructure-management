@@ -17,9 +17,7 @@ In this session you'll learn how to use AI enabled administrative tools to perfo
 By the end of this session, learners will be able to:
 
 - Enable Microsoft Copilot in Azure and configure RBAC roles for this service
-- Install and configure AI Shell
-- Create Azure infrastructure resourcess using AI Shell
-- Use AI Shell to deploy and configure an Azure IaaS VM
+- Create Azure infrastructure resourcess using Azure Copilot and Cloud Shell
 - Use GitHub Copilot to create an ARM template for an Azure IaaS VM
 - Leverage GitHub Copilot to interrogate ARM template configuration and functionality
 - Use Microsoft Copilot in Azure to control the operation of Azure IaaS VMs
@@ -27,16 +25,15 @@ By the end of this session, learners will be able to:
 
 ### 💻 Technologies Used
 
-1. Microsoft Copilot in Azure
+1. Azure Copilot
 1. GitHub Copilot in VS Code
-1. AI Shell
+1. Cloud Shell
 
 ### 🔗 Session Resources
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Session delivery resources | https://github.com/microsoft/aitour26-BRK471-ai-for-infrastructure-management/tree/main/session-delivery-resources | PowerPoint and session video files |
-| What is Microsoft Copilot in Azure? | https://learn.microsoft.com/azure/copilot/overview | Overview of Microsoft Copilot in Azure |
-| Use Microsoft Copilot in Azure with AI Shell | https://learn.microsoft.com/azure/copilot/ai-shell-overview | How to use AI Shell |
+| What is Azure Copilot? | https://learn.microsoft.com/azure/copilot/overview | Overview of Microsoft Copilot in Azure |
 
 ### 📚 Continued Learning Resources
 | Resources          | Links                             | Description        |
