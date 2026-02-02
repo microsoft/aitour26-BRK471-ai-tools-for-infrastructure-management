@@ -13,7 +13,6 @@ Prior to delivering the breakout session please:
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-<<<<<<< HEAD
 | BRK471-AI-Infa-Management-Full-Presentation.mp4                 | https://aka.ms/AAxs4y6   | Full Session Runthrough |
 | BRK471-Demo-1-Enable-Copilot-Narrated.mp4                       | https://aka.ms/AAz54ap   | Demo 1 Video Narrated |
 | BRK471-Demo-1-Enable-Copilot-NoPause.mp4                        | https://aka.ms/AAz54ar   | Demo 1 Video No pauses |
@@ -25,7 +24,6 @@ Prior to delivering the breakout session please:
 | BRK471-Demo-1-Enable-Azure-Copilot-Install-AI-Shell-NoPause.mp4 | https://aka.ms/AAxs4y3   | Demo 1 Video No pauses |
 | BRK471-Demo-2-Deploy-VM-AI-Shell-Narrated.mp4                   | https://aka.ms/AAxrjhy   | Demo 2 Video Narrated |
 | BRK471-Demo-2-Deploy-VM-AI-Shell-NoPause.mp4                    | https://aka.ms/AAxrjht   | Demo 2 Video No pauses |
->>>>>>> 69445e45c1542246953ef60723217dc053c1d402
 | BRK471-Demo-3-Create-VM-Arm-Template-Deploy-Narrated.mp4        | https://aka.ms/AAxs4y4   | Demo 3 Video Narrated |
 | BRK471-Demo-3-Create-VM-Arm-Template-Deploy-NoPause.mp4         | https://aka.ms/AAxs4y5   | Demo 3  Video No pauses |
 | BRK471-Demo-4-Interrogate-ARM-Template-GitHub-Copilot-Narrated.mp4 | https://aka.ms/AAxrxei | Demo 4 Video Narrated |
