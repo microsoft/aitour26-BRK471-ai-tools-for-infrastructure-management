@@ -13,12 +13,12 @@ Prior to delivering the breakout session please:
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
+| EN-US_BRK471_Tech_FY26.pptx                                     | https://aka.ms/AAxrjhz   | BKR 417 Slide Deck |
 | BRK471-AI-Infa-Management-Full-Presentation.mp4                 | https://aka.ms/AAxs4y6   | Full Session Runthrough |
 | BRK471-Demo-1-Enable-Copilot-Narrated.mp4                       | https://aka.ms/AAz54ap   | Demo 1 Video Narrated |
 | BRK471-Demo-1-Enable-Copilot-NoPause.mp4                        | https://aka.ms/AAz54ar   | Demo 1 Video No pauses |
 | BRK471-Demo-2-Deploy-VM-CloudShell-Narrated.mp4                 | https://aka.ms/AAz5j9d   | Demo 2 Video Narrated |
 | BRK471-Demo-2-Deploy-VM-CloudShell-NoPause.mp4                  | https://aka.ms/AAz5bm9   | Demo 2 Video No pauses |
-=======
 | BRK471-AI-Infa-Management-Full-Presentation.mp4                 | https://https://www.youtube.com/watch?v=rIK02-09-ek  | Full Session Runthrough |
 | BRK471-Demo-1-Enable-Azure-Copilot-Install-AI-Shell-Narrated.mp4| https://aka.ms/AAxs4y8   | Demo 1 Video Narrated |
 | BRK471-Demo-1-Enable-Azure-Copilot-Install-AI-Shell-NoPause.mp4 | https://aka.ms/AAxs4y3   | Demo 1 Video No pauses |
@@ -34,7 +34,7 @@ Prior to delivering the breakout session please:
 | BRK471-Demo-6-Visualize-Network-Topology-NoPause.mp4            | https://aka.ms/AAxrjhw   | Demo 6 Video No pauses |
 | BRK471-Demo-7-Configure-Monitoring-Alerts-Narrated.mp4          | https://aka.ms/AAxs4y7   | Demo 7 Video Narrated |
 | BRK471-Demo-7-AI-Monitoring-Alerts-NoPause.mp4                  | https://aka.ms/AAz5j9b    | Demo 7 Video No pauses |
-| EN-US_BRK471_Tech_FY26.pptx                                     | https://aka.ms/AAxrjhz   | BKR 417 Slide Deck |
+
 
 ### 🖥️Demos
 
