@@ -13,7 +13,7 @@ Prior to delivering the breakout session please:
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| EN-US_BRK471_Tech_FY26.pptx                                     | https://aka.ms/AAxrjhz   | BKR 417 Slide Deck |
+| EN-US_BRK471_Tech_FY26.pptx                                     | https://aka.ms/AAxrjhz   | BKR471 Slide Deck |
 | BRK471-AI-Infa-Management-Full-Presentation.mp4                 | https://aka.ms/AAxs4y6   | Full Session Runthrough |
 | BRK471-Demo-1-Enable-Copilot-Narrated.mp4                       | https://aka.ms/AAz54ap   | Demo 1 Video Narrated |
 | BRK471-Demo-1-Enable-Copilot-NoPause.mp4                        | https://aka.ms/AAz54ar   | Demo 1 Video No pauses |
